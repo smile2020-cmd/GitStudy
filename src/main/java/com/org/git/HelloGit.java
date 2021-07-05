@@ -7,7 +7,12 @@ public class HelloGit {
 		System.out.println("hello git");
 		System.out.println("hell ");
 		System.out.println("hell分支 ");
+<<<<<<< HEAD
 		System.out.println("hell主线 ");
+=======
+		System.out.println("hell分支1 ");
+		
+>>>>>>> refs/heads/dev
 	}
 
 }
