@@ -7,6 +7,8 @@ public class HelloGit {
 		System.out.println("hello git");
 		System.out.println("hell ");
 		System.out.println("hell分支 ");
+		System.out.println("hell分支1 ");
+		
 	}
 
 }
