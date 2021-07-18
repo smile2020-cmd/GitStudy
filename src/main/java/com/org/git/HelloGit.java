@@ -10,6 +10,7 @@ public class HelloGit {
 		System.out.println("hell主线 ");
 		System.out.println("hell分支1 ");
 		System.out.println("hell分支2 ");
+		System.out.println("hell分支3 ");
 		
 	}
 
